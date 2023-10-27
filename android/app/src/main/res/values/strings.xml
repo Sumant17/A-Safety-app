@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">guardon</string>
+    <string name="facebook_app_id">151192604603141</string>
+    <string name="fb_login_protocol_scheme">fb151192604603141</string>
+    <string name="facebook_client_token">7e1d6c0e33987e366d982c692a013825</string>
+</resources>
